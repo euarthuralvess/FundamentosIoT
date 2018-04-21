@@ -49,3 +49,8 @@ void loop() {
   for(int i=0;i<=6;i++){
     digitalWrite(LED_VERDE,HIGH);
     delay(200);
+    digitalWrite(LED_VERDE,LOW);
+}
+    }delay(300);
+  }
+}
